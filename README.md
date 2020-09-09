@@ -7,11 +7,11 @@
 	<img src="https://img.shields.io/badge/platform-iOS-blue.svg?style=flat" alt="Platform iOS" />
 	<a href="https://raw.githubusercontent.com/devzhr/SwiftFileManager/master/LICENSE"><img src="http://img.shields.io/badge/license-MIT-blue.svg?style=flat" alt="License: MIT" /></a>
 </p>
-Swift Crypto SHA256 
+Swift File Manager 
 
 ## Getting Started
 
-An [example ViewController](https://github.com/devzhr/SwiftFileManager/blob/master/Example/sha256/ViewController.swift) is included demonstrating SwiftFileManager's functionality.
+An [example ViewController](https://github.com/devzhr/SwiftFileManager/blob/master/Example/Example-SwiftFileManager/ViewController.swift) is included demonstrating SwiftFileManager's functionality.
 
 
 ## Installation
@@ -21,7 +21,7 @@ An [example ViewController](https://github.com/devzhr/SwiftFileManager/blob/mast
 Add the following line to your Podfile:
 
 ```ruby
-pod 'SwiftFileManager', :git => 'https://github.com/devzhr/SwiftFileManager.git', :tag => 'v0.0.1'
+pod 'SwiftFileManager', :git => 'https://github.com/devzhr/SwiftFileManager.git', :tag => '0.0.1'
 ```
 Then run the following in the same directory as your Podfile:
 
