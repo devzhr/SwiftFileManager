@@ -1,0 +1,16 @@
+PODS:
+  - SwiftFileManager (0.0.1)
+
+DEPENDENCIES:
+  - SwiftFileManager (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftFileManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftFileManager: 9e057a43cf5b5a522ba611f90e7d3ddf2b1f1e21
+
+PODFILE CHECKSUM: 896d48fbac9c5c292dce34a9dcf889710046c238
+
+COCOAPODS: 1.10.0.beta.2
