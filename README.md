@@ -1,5 +1,4 @@
 # SwiftFileManager
-============
 
 <p align="left">
 	<a href="https://developer.apple.com/swift"><img src="https://img.shields.io/badge/Swift_5-compatible-4BC51D.svg?style=flat" alt="Swift 5 compatible" /></a>
@@ -12,6 +11,10 @@ Swift File Manager
 ## Getting Started
 
 An [example ViewController](https://github.com/devzhr/SwiftFileManager/blob/master/Example/Example-SwiftFileManager/ViewController.swift) is included demonstrating SwiftFileManager's functionality.
+
+## How do I get involved?
+
+You want to help, great! Go ahead and fork our repo, make your changes and send us a pull request.
 
 
 ## Installation
